@@ -2,7 +2,7 @@
 
 **Aprender japonés debería sentirse como un juego, no como una tarea.** Tenshigana es una aplicación de escritorio para practicar Hiragana, Katakana, Kanji, Números y Vocabulario basada en inferencias forzadas y memoria: ves el carácter, escribís su lectura en romaji… contra reloj. Sin ayuda visual, sin excusas.
 
-LINK DE DESCARGA: https://www.mediafire.com/file/ev5f4ktgk6omehp/Tenshigana_by_Ronzano.rar/file
+>>> LINK DE DESCARGA: https://www.mediafire.com/file/ev5f4ktgk6omehp/Tenshigana_by_Ronzano.rar/file <<<
 
 
 
